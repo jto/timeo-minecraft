@@ -1,0 +1,16 @@
+.idea
+target
+*.swp
+.DS_Store
+.bigquery
+.scio_repl
+*.jfr
+
+.bloop
+.metals
+metals.sbt
+.vscode
+.java-version
+run
+build
+.gradle
